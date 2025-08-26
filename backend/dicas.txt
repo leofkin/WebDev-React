@@ -1,0 +1,4 @@
+1º criar a pasta do projeto
+2º digitar no terminal : npm init -y
+3º criar o arquivo server : touch server.js
+4º instalar as dependências: npm install express
